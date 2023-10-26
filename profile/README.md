@@ -6,10 +6,10 @@ The goal is ultimately remove the need for any kind of sheet like mappooling, re
 
 ## Timeline
 
-4/22/2023 First front/backend repo commit
-10/17/2023 Final & Official Logo
-10/17/2023 [Official Twitter account](https://twitter.com/pyrothia_)
-10/19/2023 Moved all repos to Github organization
+- 4/22/2023 First front/backend repo commit
+- 10/17/2023 Final & Official Logo
+- 10/17/2023 [Official Twitter account](https://twitter.com/pyrothia_)
+- 10/19/2023 Moved all repos to Github organization
 
 # Credits
 - Front & Backend - [Konotorii](https://github.com/konotorii)

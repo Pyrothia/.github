@@ -10,7 +10,9 @@ The goal is ultimately remove the need for any kind of sheet like mappooling, re
 - 10/17/2023 Final & Official Logo
 - 10/17/2023 [Official Twitter account](https://twitter.com/pyrothia_)
 - 10/19/2023 Moved all repos to Github organization
+- 01/18/2024 Welcomed @ConnerKT to the project as a frontend developer
 
 # Credits
-- Front & Backend - [Konotorii](https://github.com/konotorii)
+- Backend - [Konotorii](https://github.com/konotorii)
+- Frontend - [Konotorii](https://github.com/konotorii) [ConnerKT](https://github.com/ConnerKT)
 - Logo - [raybean](https://raybeans.carrd.co/)

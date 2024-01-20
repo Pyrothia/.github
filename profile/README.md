@@ -11,8 +11,9 @@ The goal is ultimately remove the need for any kind of sheet like mappooling, re
 - 10/17/2023 [Official Twitter account](https://twitter.com/pyrothia_)
 - 10/19/2023 Moved all repos to Github organization
 - 01/18/2024 Welcomed @ConnerKT to the project as a frontend developer & [Official Discord Server](https://discord.gg/T8Q8PtV27t)
+- 01/19/2024 Welcomed Kr0n[]5 & IkaWaAyuMu as frontend developers
 
 # Credits
 - Backend - [Konotorii](https://github.com/konotorii)
-- Frontend - [Konotorii](https://github.com/konotorii) [ConnerKT](https://github.com/ConnerKT)
+- Frontend - [Konotorii](https://github.com/konotorii) [ConnerKT](https://github.com/ConnerKT) [Kr0n[]5](https://github.com/didcreetsadgoku500)
 - Logo - [raybean](https://raybeans.carrd.co/)

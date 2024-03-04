@@ -13,6 +13,8 @@ The goal is ultimately remove the need for any kind of sheet like mappooling, re
 - 01/18/2024 Welcomed ConnerKT to the project as a frontend developer & [Official Discord Server](https://discord.gg/T8Q8PtV27t)
 - 01/19/2024 Welcomed Kr0n[]5 & IkaWaAyuMu as frontend developers
 
+- 03/03/2024 Project indefinitely halted.
+
 # Credits
 - Backend - [Konotorii](https://github.com/konotorii)
 - Frontend - [Konotorii](https://github.com/konotorii) [ConnerKT](https://github.com/ConnerKT) [Kr0n[]5](https://github.com/didcreetsadgoku500) [IkaWaAyuMu](https://github.com/ikawaayumu)

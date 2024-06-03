@@ -17,5 +17,5 @@ The goal is ultimately remove the need for any kind of sheet like mappooling, re
 
 # Credits
 - Backend - [Konotorii](https://github.com/konotorii)
-- Frontend - [Konotorii](https://github.com/konotorii) [ConnerKT](https://github.com/ConnerKT) [Kr0n[]5](https://github.com/didcreetsadgoku500) [IkaWaAyuMu](https://github.com/ikawaayumu)
+- Frontend - [Konotorii](https://github.com/konotorii)
 - Logo - [raybean](https://raybeans.carrd.co/)
